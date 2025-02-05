@@ -1,4 +1,4 @@
 (executable
- (public_name refocusing)
+ (public_name backtrack)
  (name main)
- (libraries refocusing))
+ (libraries backtrack))

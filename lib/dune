@@ -1,8 +1,8 @@
 (library
   (modules
-    syntax
+    monad
   )
- (name refocusing)
+ (name backtrack)
  (preprocess (pps ppx_deriving.show ppx_deriving.ord ppx_deriving.eq))
 
 )
